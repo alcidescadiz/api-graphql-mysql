@@ -5,4 +5,6 @@ in broswer:  http://localhost:4000/graphql
 
 add database name en .env file
 
+npm install
+
 npm start
